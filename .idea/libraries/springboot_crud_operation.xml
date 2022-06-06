@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-crud-operation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springboot-crud-operation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
